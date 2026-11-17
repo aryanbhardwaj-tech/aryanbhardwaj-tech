@@ -18,6 +18,7 @@ I turn raw data into dashboards and insights that support business decisions.
 ## 📫 Connect with me
 - LinkedIn: [aryan-bhardwaj-11b89637b](https://www.linkedin.com/in/aryan-bhardwaj-11b89637b)
 - Email: tech.aryanbhardwaj@gmail.com
+- LeetCode: https://leetcode.com/u/TechAryanBhardwaj/
 
 
 ⭐ Open to data analyst internships and entry-level roles.
